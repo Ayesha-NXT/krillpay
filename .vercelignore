@@ -1,5 +1,5 @@
 # Ignore everything (folders and files) on root only
-/*
+/vendor
 !api
 !vercel.json
 !*.html
